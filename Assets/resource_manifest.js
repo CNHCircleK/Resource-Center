@@ -187,8 +187,8 @@ const resources = {
 			new Resource("MRS User Guide", "pdf", "http://resources.cnhcirclek.org/Documents/MR/MRS/2020-2021 MRS User Guide.pdf")
 		]),
 		
-		new Dropdown("District Convention 2021 Awards", "dconawards", [
-			new Resource("District Convention 2021 Master Award Sheet", "link", "https://docs.google.com/spreadsheets/d/1_V9nCoIqAlqwb6OWNWFu1aAkBQ_G1J5xXgXb8xvr5dc/edit?fbclid=IwAR0xFEdsrPYvKtaoXDAcHVuqBeE3s5Aqbo7DGsAdZK_q3GkNmrfitO-LEOA#gid=0"),
+		new Dropdown("District Convention 2022 Awards", "dconawards", [
+			new Resource("District Convention 2022 Master Award Sheet", "link", "https://docs.google.com/spreadsheets/d/1AClHoYZ_GZMOg3TIm9Xv-Yx9YxcX93JV6h4sOP4MdpQ/edit?usp=sharing"),
 			new Resource("Endorsement Sheet", "xlsx", "http://resources.cnhcirclek.org/Documents/MR/District Convention 2021 Awards/2020-2021 Endorsements Sheet.xlsx"),
 			new Dropdown("Distinguished Appointed Board Member Award", "aboard",[
 				new Resource("I.A. Divisional Events", "xlsx", "http://resources.cnhcirclek.org//Documents/MR/District Convention 2021 Awards/Distinguished Appointed Board Member/I.A.8. Divisional Event(s).xlsx"),
