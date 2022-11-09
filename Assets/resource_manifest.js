@@ -17,6 +17,8 @@ class Dropdown {
 
 // Some mechanism to camelize the title for the link?
 // Prefer redirect-download links to be able to track clicks
+//
+
 const resources = {
 	district: [
 		new Resource("District Bylaws", "pdf", "http://resources.cnhcirclek.org/Documents/District/CNH Circle K District Bylaws (Updated 02.04.2022).pdf"),
