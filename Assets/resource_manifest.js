@@ -172,12 +172,26 @@ const resources = {
 		new Resource("Transitioning from Key Club and KIWIN'S to Circle K Manual", "pdf", "http://www.cnhcirclek.org/download/transitioning-from-key-club-and-kiwins-to-circle-k-manual/")
 	],
 	mde: [
+		new Resource("Membership Recruitment Sundown Webinar", "link", "https://www.youtube.com/watch?v=JYEHfslSmCs"),
+		new Resource("Recognition and Retention Sundown Webinar", "link", "https://www.youtube.com/watch?v=ffEsmLbV7YM&t=912s"),
+		new Resource("2021-2022 Recruitment Packet", "link", "https://drive.google.com/drive/folders/1136c8UU2AWIcCBJtd3uDtHuJZtT_K0GD?usp=sharing"),
+		new Dropdown("2019-2020 Manuals", "mde", [
 		new Resource("Small and Large-Scale Event Planning", "pdf", "http://www.cnhcirclek.org/download/small-and-large-scale-event-planning/"),
 		new Resource("Icebreaker Manual", "pdf", "http://www.cnhcirclek.org/download/icebreakers-manual/"),
 		new Resource("Tabling Manual", "pdf", "http://www.cnhcirclek.org/download/tabling-manual/"),
-		new Resource("Member Recruitment and Retentional Manual", "pdf", "http://www.cnhcirclek.org/download/member-retruitment-and-retention-manual/"),
-		new Resource("General Member Handbook", "pdf", "http://www.cnhcirclek.org/download/general-member-handbook/")
-	],
+		new Resource("Member Recruitment and Retention Manual", "pdf", "http://www.cnhcirclek.org/download/member-retruitment-and-retention-manual/"),
+		new Resource("General Member Handbook", "pdf", "https://www.cnhcirclek.org/download/general-member-handbook/"),
+		]),
+		new Dropdown("2022-2023 Manuals", "mde", [
+		new Resource("General Member Handbook", "pdf", "https://resources.cnhcirclek.org/Documents/MDE/General-Member-Handbook-2022-2023.pdf"),
+		new Resource("Icebreakers Manual", "pdf", "https://resources.cnhcirclek.org/Documents/MDE/Icebreakers-Manual-2022-2023.pdf"),
+		new Resource("Tabling Manual", "pdf", "https://resources.cnhcirclek.org/Documents/MDE/Tabling-Manual-2022-2023.pdf"),
+		new Resource("Small and Large-Scale Event Planning", "pdf", "https:www/resources.cnhcirclek.org/Documents/MDE/Small-and-Large-Scale-Event-Planning-Manual-2022-2023.pdf"),
+		new Resource("Fellowship Systems Manual", "pdf", "https://resources.cnhcirclek.org/Documents/MDE/Fellowship-Systems-Manual-2022-2023.pdf"),
+		new Resource("Networking Guide", "pdf", "https://resources.cnhcirclek.org/Documents/MDE/Networking-Guide-2020-2021.pdf"),
+		]
+		)
+		 ],
 	mr: [
 		// this is the same dropdown in secretary
 		new Dropdown("Master Record Sheet Files", "mrs", [
